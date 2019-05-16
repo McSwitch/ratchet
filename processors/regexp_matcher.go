@@ -3,9 +3,9 @@ package processors
 import (
 	"regexp"
 
-	"github.com/dailyburn/ratchet/data"
-	"github.com/dailyburn/ratchet/logger"
-	"github.com/dailyburn/ratchet/util"
+	"github.com/McSwitch/ratchet/data"
+	"github.com/McSwitch/ratchet/logger"
+	"github.com/McSwitch/ratchet/util"
 )
 
 // RegexpMatcher checks if incoming data matches the given Regexp, and sends
